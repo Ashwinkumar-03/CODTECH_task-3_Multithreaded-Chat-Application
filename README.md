@@ -1,7 +1,5 @@
 # CODTECH_task-3_Multithreaded-Chat-Application
 
----
-
 ## **Project Overview**  
 
 The **Multithreaded Chat Application** is a **real-time client-server communication system** designed to allow multiple users to send and receive messages simultaneously over a network. This project was developed as part of **CODTECH Internship Task 3**, requiring the implementation of a **Java-based chat system** using **Sockets and Multithreading**.  
